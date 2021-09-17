@@ -1,0 +1,20 @@
+.white {
+  background-color: white;
+}
+.black {
+  background-color: black;
+}
+.container {
+  margin: 20px;
+  width: 320px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid black;
+}
+.box {
+  width: 40px;
+  height: 40px;
+}
+.highlight {
+  background: red;
+}
